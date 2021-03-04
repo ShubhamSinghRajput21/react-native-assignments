@@ -12,4 +12,4 @@ import ActivityIndicatorExample from './src/Components/ActivityIndicator';
 import {name as appName} from './app.json';
 import TestUi from './src/Components/TestUi';
 
-AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => TestUi);
