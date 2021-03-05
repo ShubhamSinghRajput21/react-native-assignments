@@ -10,7 +10,7 @@ import AffanKa from './src/Components/AffanKa';
 import HexcodeValidation from './src/Components/HexcodeValidation';
 import ActivityIndicatorExample from './src/Components/ActivityIndicator';
 import FetchData from './src/Components/FetchData';
-import Fetch_Data from './src/Components/FetchData2';
+import Fetch_Data from './FetchData2';
 import {name as appName} from './app.json';
 import TestUi from './src/Components/TestUi';
 
