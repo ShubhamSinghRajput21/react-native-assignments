@@ -60,3 +60,4 @@ buck-out/
 
 #Other files
 SirKiStyling.js
+./src/Components/FetcData2.js
